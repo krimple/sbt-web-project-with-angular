@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: org.webjars:squirejs:0.1.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.webjars/squirejs/jars/squirejs-0.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.webjars/squirejs/docs/squirejs-0.1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

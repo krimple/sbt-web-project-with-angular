@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: org.webjars:chai:1.9.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.webjars/chai/jars/chai-1.9.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.webjars/chai/docs/chai-1.9.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
